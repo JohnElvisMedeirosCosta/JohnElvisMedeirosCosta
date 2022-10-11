@@ -1,6 +1,6 @@
 ![alt text](./Images/top.svg)
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I love coding in Python :snake:. I work at [SYN](https://www.syn.com.br/) as a System Analyst and occassionally participate in hackathons.
 
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python.
