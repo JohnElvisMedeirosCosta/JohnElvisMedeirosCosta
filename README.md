@@ -5,8 +5,8 @@ I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Pyt
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
+- :pencil2: I Write posts on instagram on free days.
+- :musical_note: I love to hear folk music.
 
 
 ### Let's Connect :coffee:
