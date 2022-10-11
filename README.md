@@ -1,4 +1,4 @@
-![alt text](images/top.svg)
+![alt text](./Images/top.svg)
 
 I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
@@ -17,4 +17,4 @@ I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Pyt
 	<a href="https://www.instagram.com/johnelviscosta/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
+![alt text](./Images/bottom.svg)
