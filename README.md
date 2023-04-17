@@ -1,20 +1,45 @@
-![alt text](./Images/top.svg)
+<h1 align="center"> 
+	✅Bem vindo ao meu GitHub🚀
+</h1>
 
-I love coding in Python :snake:. I work at [SYN](https://www.syn.com.br/) as a System Analyst and occassionally participate in hackathons.
+### 👦 Sobre mim: 
+> - 👋 Me chamo **John Costa**, tenho 27 anos.
+> - 📌 De São Paulo, SP, Brazil.
+> - 🎓 Formado em Data Science pela Uninove.
 
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write posts on instagram on free days.
-- :musical_note: I love to hear folk music.
+### 🌎 My networks:
+<div style="display: inline_block">
+  <img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-elvis-medeiros-costa/" />
+  <img aling="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnelviscosta/" />
+</div>
+  
+### ⚡ Skills:
+<div style="display: inline_block">
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img aling='center' alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img aling='center' alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div>
 
+### 📦 Databases:
+<div>
+  <img aling="center" alt="mysql" src="https://img.shields.io/badge/Postgress-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/JohnElvisMedeirosCosta"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/john-elvis-medeiros-costa-69258a124/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/john.elvis.37/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/johnelviscosta/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
+### 🧰 Tools:
+<div>
+  <img aling="center" alt="pycharm" src="https://img.shields.io/badge/-Pycharm-brightgreen?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img aling="center" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img aling="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+</div>
 
-![alt text](./Images/bottom.svg)
+<br>
+<div align="center">
+  <a href="https://github.com/JohnElvisMedeirosCosta">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohnElvisMedeirosCosta&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnElvisMedeirosCosta&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  
+![Snake animation](https://github.com/whoemai/whoemai/blob/output/github-contribution-grid-snake.svg)
