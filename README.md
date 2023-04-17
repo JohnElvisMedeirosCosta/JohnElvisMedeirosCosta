@@ -9,8 +9,8 @@
 
 ### 🌎 My networks:
 <div style="display: inline_block">
-  <img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-elvis-medeiros-costa/" />
-  <img aling="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnelviscosta/" />
+  <a href="https://www.linkedin.com/in/john-elvis-medeiros-costa/"><img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/johnelviscosta/"><img aling="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")/></a>
 </div>
   
 ### ⚡ Skills:
