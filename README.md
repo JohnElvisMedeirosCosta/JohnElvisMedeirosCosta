@@ -34,10 +34,3 @@
   <img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img aling="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </div>
-
-<br>
-<div align="center">
-  <a href="https://github.com/JohnElvisMedeirosCosta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohnElvisMedeirosCosta&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnElvisMedeirosCosta&layout=compact&langs_count=5&theme=tokyonight"/>
-</div>
